@@ -1596,7 +1596,7 @@ tr:first-child td {
 }
 
 td {
-  padding: 7px;
+  padding: 50px;
   border: 1px solid rgba(0, 0, 0, 0.1);
   text-align: left;
 }
